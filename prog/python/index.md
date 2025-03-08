@@ -1,4 +1,3 @@
-[ejemplos](./ejemplos.md)
 
 [Datos complejos: tabla](./tablaTiposDatos.md)
 
@@ -15,3 +14,7 @@
 [slicing](./slicing.md)
 
 [pathlib](./pathlib/pathIndex.md)
+
+[pruebas (en github)](https://github.com/miGUITel/webGeneral/tree/main/prog/python/pruebas)
+
+[ejemplos](./ejemplos.md)
