@@ -18,3 +18,8 @@
 [pruebas (en github)](https://github.com/miGUITel/webGeneral/tree/main/prog/python/pruebas)
 
 [ejemplos](./ejemplos.md)
+
+pendiente:
+sorted
+expresiones regulares...
+Strings
