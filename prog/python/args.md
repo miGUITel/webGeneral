@@ -1,5 +1,7 @@
 [VER Argumentos con PARSE](#argumentos-con-parse)
 
+[Ejemplo de uso en Collatz.py](../python/pruebas/Collatz.py)
+
 ### 📌 **Manejo de Argumentos con `sys.argv` en Python**
 
 El módulo `sys` permite acceder a los argumentos pasados al ejecutar un script desde la línea de comandos mediante `sys.argv`, que es una lista donde cada elemento representa un argumento.
