@@ -1,6 +1,8 @@
 
 [entrada con input](./input.md)
 
+[números aleatorios](./ramdom.md)
+
 [Datos complejos: tabla](./tablaTiposDatos.md)
 
 [def función](./funciones.md)
