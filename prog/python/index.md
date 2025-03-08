@@ -3,6 +3,8 @@
 
 [números aleatorios](./ramdom.md)
 
+[argumentos en scripts](./args.md)
+
 [Datos complejos: tabla](./tablaTiposDatos.md)
 
 [def función](./funciones.md)
