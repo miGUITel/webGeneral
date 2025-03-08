@@ -1,9 +1,9 @@
 # Todos los apuntes de la oposición
 
 ### Redes
-[Web redes]()
+[Web redes](https://miguitel.github.io/opo/)
 
-[Practicar Binario]()
+[Practicar Binario](https://miguitel.github.io/binario-quiz/)
 
 ### Programación
 
