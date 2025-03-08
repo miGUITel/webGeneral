@@ -69,6 +69,7 @@ else:
 ---
 
 ### 🔹 **Resumen**
+
 | **Elemento** | **Significado** |
 |-------------|----------------|
 | `sys.argv[0]` | Nombre del script |
