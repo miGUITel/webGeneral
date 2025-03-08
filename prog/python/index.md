@@ -1,4 +1,6 @@
 
+[entrada con input](./input.md)
+
 [Datos complejos: tabla](./tablaTiposDatos.md)
 
 [def función](./funciones.md)
