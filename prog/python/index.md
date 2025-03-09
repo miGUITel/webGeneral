@@ -1,6 +1,8 @@
 
 [entrada con input](./input.md)
 
+[salida, formattimg web](https://docs.python.org/3/tutorial/inputoutput.html#)
+
 [números aleatorios](./ramdom.md)
 
 [argumentos en scripts](./args.md)
@@ -21,7 +23,7 @@
 
 [pathlib](./pathlib/pathIndex.md)
 
-[pruebas (en github)](https://github.com/miGUITel/webGeneral/tree/main/prog/python/pruebas)
+[mis scripts (en github)](https://github.com/miGUITel/webGeneral/tree/main/prog/python/pruebas)
 
 [ejemplos](./ejemplos.md)
 
