@@ -1,7 +1,9 @@
 
 [entrada con input](./input.md)
 
-[salida, formattimg web](https://docs.python.org/3/tutorial/inputoutput.html#)
+[1 salida, formattimg, ftrings, str(), repr(). {oficial}](https://docs.python.org/3/tutorial/inputoutput.html#) -- [2 {w3c}](https://www.w3schools.com/python/ref_string_format.asp)
+
+[operadores básicos {freecodecamp}](https://www.freecodecamp.org/espanol/news/operadores-basicos-en-python-con-ejemplos/) -- [divmod {w3c}](https://www.w3schools.com/python/ref_func_divmod.asp)
 
 [números aleatorios](./ramdom.md)
 
@@ -11,7 +13,7 @@
 
 [def función](./funciones.md)
 
-[for](./for.md) [for freecodecamp](https://www.freecodecamp.org/espanol/news/bucles-for-en-python/)
+[for](./for.md) [for {freecodecamp}](https://www.freecodecamp.org/espanol/news/bucles-for-en-python/)
 
 [generando listas: comprenhesion](./generaListas.md)
 
@@ -20,6 +22,8 @@
 [reduce](./reduce.md)
 
 [slicing](./slicing.md)
+
+[frozenset {libro}](https://ellibrodepython.com/frozenset-en-python)
 
 [pathlib](./pathlib/pathIndex.md)
 
