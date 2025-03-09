@@ -13,7 +13,7 @@
 
 [def función](./funciones.md)
 
-[for](./for.md) [for {freecodecamp}](https://www.freecodecamp.org/espanol/news/bucles-for-en-python/)
+[for](./for.md) -- [for {freecodecamp}](https://www.freecodecamp.org/espanol/news/bucles-for-en-python/)
 
 [generando listas: comprenhesion](./generaListas.md)
 
