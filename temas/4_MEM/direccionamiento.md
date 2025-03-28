@@ -1,4 +1,4 @@
-¡Perfecto! Vamos a explicar los **tipos de direccionamiento** en los procesadores de forma clara y práctica, con ejemplos que conecten con lo que los alumnos pueden ver en ensamblador o entender de la arquitectura básica de un ordenador.
+¡Perfecto! Vamos a explicar los **tipos de direccionamiento** en los **procesadores** de forma clara y práctica, con ejemplos que conecten con lo que los alumnos pueden ver en ensamblador o entender de la arquitectura básica de un ordenador.
 
 ---
 
